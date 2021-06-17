@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“I really hate when it's hot outside.”
 Use the left arrow to go back!
